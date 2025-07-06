@@ -1,0 +1,10 @@
+{
+  "appId": "com.savvynav.budget",
+  "appName": "Savvy Budget Navigator",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
